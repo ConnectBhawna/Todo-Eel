@@ -15,9 +15,7 @@ In order to run the program, type
 python main.py
 ```
 
-In case of any doubt feel free to contact me [here]{https://linktr.ee/ConnectBhawna}
-# Todo-Eel
-# Todo-Eel
-# Eel-Todo
-# Eel-Todo
-# Eel-Todo
+### Project Image
+![image](https://github.com/ConnectBhawna/Todo-Eel/assets/81790585/e0933488-f8da-4c26-b64a-22c10b94d91a)
+
+In case of any doubt feel free to contact me [here](https://linktr.ee/ConnectBhawna)
